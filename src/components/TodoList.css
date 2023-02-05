@@ -1,0 +1,17 @@
+.toli{
+   
+        background-color: white;
+        font-size: 20px;
+        text-align: center;
+        justify-content: center;
+        margin: 0;
+        /* display: grid; */
+        height: 30vh;
+        align-items: center;
+        align-content: center;
+        justify-items: stretch;
+        padding: 0;
+}
+ul{
+    list-style: none;
+}
